@@ -139,7 +139,7 @@ a:hover{ text-decoration: underline; }
 }
 
 /* ----------------------------
-   Cards
+   Cards in sections
 ----------------------------- */
 .card{
   background: var(--card);
